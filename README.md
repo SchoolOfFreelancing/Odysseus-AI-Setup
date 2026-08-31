@@ -1,12 +1,9 @@
-# 🦞 OpenClaw AI Setup & Support Services
+# Odysseus AI Setup
 
 <p align="center">
-  <img src="openclawlogo.png" alt="OpenClaw — Personal AI Assistant Training" alt="OpenClaw — Personal AI Assistant Training" width="90%">
+  <img src="odysseus.png" alt="Odysseus AI Setup" alt="Odysseus AI Setup>
 </p>
 
-<p align="center">
-  <a href="https://github.com/SchoolOfFreelancing/OpenClaw-Hands-on-Training.git">OpenClaw AI Training</a> | <a href="https://github.com/SchoolOfFreelancing/Odysseus-AI-Setup-Support.git/">OpenClaw AI Setup Support</a>
-</p>
 
 <p align="center">
   <a href="https://t.me/SchoolOfFreelancingTraining">
