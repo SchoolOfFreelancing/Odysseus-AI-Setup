@@ -100,16 +100,6 @@ Simply contact us with your server details and project requirements. We'll revie
 ## Get Expert Support
 Contact us on [WhatsApp](https://wa.me/8801748973769) or [Telegram](https://t.me/SchoolOfFreelancingTraining) to start Odysseus AI Setup & Support Services.
 
-## Odysseus AI Dashboard
-```
-───────────────────────────────────────────────
-✧(｡•̀ᴗ-)✧ Odysseus AI Setup & Support Services with the Latest Stable Odysseus AI Release
-───────────────────────────────────────────────
-```
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SchoolOfFreelancing/Odysseus-AI-Setup/main/dashboard.png" alt="Odysseus AI dashboard" width="80%">
-</p>
-
 ## Disclaimer
 This repository is intended to provide guidance, documentation, and support resources related to Odysseus AI installation. Product names, trademarks, and service names belong to their respective owners.
 
