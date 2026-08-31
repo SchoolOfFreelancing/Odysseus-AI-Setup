@@ -1,23 +1,17 @@
-# Odysseus AI Setup
-
 <p align="center">
-  <img src="odysseus.png" alt="Odysseus AI Setup" alt="Odysseus AI Setup>
+  <img src="odysseus.png" alt="Odysseus AI Setup">
 </p>
-
 
 <p align="center">
   <a href="https://t.me/SchoolOfFreelancingTraining">
     <img src="https://img.shields.io/badge/Telegram-Get%20Live%20Support-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Support">
   </a>
-
   <a href="https://wa.me/8801748973769">
     <img src="https://img.shields.io/badge/WhatsApp-Get%20Live%20Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Support">
   </a>
-
-   <a href="LICENSE">
-   <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License">
-   </a>
-   
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License">
+  </a>
 </p>
 
 Professional Odysseus AI production deployment, configuration, troubleshooting support and service for **Odysseus AI Workspace** self-hosted AI agent infrastructure — delivered by School of Freelancing.
@@ -104,20 +98,24 @@ Simply contact us with your server details and project requirements. We'll revie
 </details>
 
 ## Get Expert Support
-Contact us on [WhatsApp](https://wa.me/8801748973769) or [Telegram](https://t.me/SchoolOfFreelancingTraining) to start OpenClaw AI Setup & Support Services.
+Contact us on [WhatsApp](https://wa.me/8801748973769) or [Telegram](https://t.me/SchoolOfFreelancingTraining) to start Odysseus AI Setup & Support Services.
 
-## OpenClaw Dashboard
+## Odysseus AI Dashboard
 ```
 ───────────────────────────────────────────────
-✧(｡•̀ᴗ-)✧ OpenClaw AI Setup & Support Services with the Latest Stable OpenClaw Release
+✧(｡•̀ᴗ-)✧ Odysseus AI Setup & Support Services with the Latest Stable Odysseus AI Release
 ───────────────────────────────────────────────
-
 ```
-![OpenClaw Claude-Fable-5](https://github.com/SchoolOfFreelancing/OpenClaw-Hands-on-Training/blob/main/controlui.png)
-![OpenClaw](https://github.com/SchoolOfFreelancing/OpenClaw-Hands-on-Training/blob/main/OpenClaw.png)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SchoolOfFreelancing/Odysseus-AI-Setup/main/controlui.png" alt="Odysseus AI control UI" width="80%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SchoolOfFreelancing/Odysseus-AI-Setup/main/dashboard.png" alt="Odysseus AI dashboard" width="80%">
+</p>
 
 ## Disclaimer
-This repository is intended to provide guidance, documentation, and support resources related to OpenClaw installation. Product names, trademarks, and service names belong to their respective owners.
+This repository is intended to provide guidance, documentation, and support resources related to Odysseus AI installation. Product names, trademarks, and service names belong to their respective owners.
 
 ⭐ If this repository helps you, please consider starring it and sharing it with others.
 
