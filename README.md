@@ -106,10 +106,6 @@ Contact us on [WhatsApp](https://wa.me/8801748973769) or [Telegram](https://t.me
 ✧(｡•̀ᴗ-)✧ Odysseus AI Setup & Support Services with the Latest Stable Odysseus AI Release
 ───────────────────────────────────────────────
 ```
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SchoolOfFreelancing/Odysseus-AI-Setup/main/controlui.png" alt="Odysseus AI control UI" width="80%">
-</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/SchoolOfFreelancing/Odysseus-AI-Setup/main/dashboard.png" alt="Odysseus AI dashboard" width="80%">
 </p>
